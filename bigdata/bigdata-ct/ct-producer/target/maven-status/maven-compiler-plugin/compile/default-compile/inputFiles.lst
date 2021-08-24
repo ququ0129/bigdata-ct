@@ -1,0 +1,6 @@
+/root/bigdata/bigdata-ct/ct-producer/src/main/java/org/cg/producer/io/LocalFileDataIn.java
+/root/bigdata/bigdata-ct/ct-producer/src/main/java/org/cg/producer/bean/Contact.java
+/root/bigdata/bigdata-ct/ct-producer/src/main/java/org/cg/producer/io/LocalFileDataOut.java
+/root/bigdata/bigdata-ct/ct-producer/src/main/java/org/cg/producer/bean/CallLog.java
+/root/bigdata/bigdata-ct/ct-producer/src/main/java/org/cg/producer/bean/LocalFileProducer.java
+/root/bigdata/bigdata-ct/ct-producer/src/main/java/org/cg/producer/Bootstrap.java

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigdata.iml" filepath="$PROJECT_DIR$/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata-ct/bigdata-ct.iml" filepath="$PROJECT_DIR$/bigdata-ct/bigdata-ct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata-ct/ct-analysis/ct-analysis.iml" filepath="$PROJECT_DIR$/bigdata-ct/ct-analysis/ct-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata-ct/ct-cache/ct-cache.iml" filepath="$PROJECT_DIR$/bigdata-ct/ct-cache/ct-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata-ct/ct-common/ct-common.iml" filepath="$PROJECT_DIR$/bigdata-ct/ct-common/ct-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata-ct/ct-consumer/ct-consumer.iml" filepath="$PROJECT_DIR$/bigdata-ct/ct-consumer/ct-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata-ct/ct-consumer-coprocessor/ct-consumer-coprocessor.iml" filepath="$PROJECT_DIR$/bigdata-ct/ct-consumer-coprocessor/ct-consumer-coprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata-ct/ct-producer/ct-producer.iml" filepath="$PROJECT_DIR$/bigdata-ct/ct-producer/ct-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata-ct/ct-webtest/ct-webtest.iml" filepath="$PROJECT_DIR$/bigdata-ct/ct-webtest/ct-webtest.iml" />
+    </modules>
+  </component>
+</project>
